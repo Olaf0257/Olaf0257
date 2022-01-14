@@ -56,9 +56,3 @@
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Olaf0257&langs_count=16&layout=compact&title_color=63cda9" height="190px" />
 </p>
 <hr>
-<p dir="auto" align="center">
-<a href="mailto:snowman202057@gmail.com" target="_blank"><img src="3031693.png" style="width: 50px; height: 50px"></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://t.me/Olaf0257" target="_blank"><img src="906377.png" style="width: 50px; height: 50px"></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://join.skype.com/invite/CUelzZwfwKZM" target="_blank"><img src="3670246.png" style="width: 50px; height: 50px"></a>
-</p>
-<hr>

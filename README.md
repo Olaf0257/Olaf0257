@@ -10,7 +10,7 @@
 <br>
 <p align="center"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=olaf0257&column=6&theme=onedark&title=Commit,Star,Follower,Repository,PullRequest,Issue"/></a> </p>
 <br>
-## Languages and Tools
+<h3 align="left">Languages and Tools</h3>
 <br>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
@@ -53,7 +53,7 @@
 <code><img height="35" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/b2b.png"></code>
 <code><img height="35" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/b2c.png"></code>
 <br><br>
-## My Github Stats
+<h3 align="left">My Github Stats</h3>
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=olaf0257&show_icons=true&theme=tokyonight&line_height=25">

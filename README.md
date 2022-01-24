@@ -2,9 +2,6 @@
 <h3 align="center">With over 7 years of rich development experience on projects ranging from small size applications through complex enterprise solutions.</h3>
 
 ## Core skills
-
-- 🔭 I am ready to start your project anytime.
-
 - 🌱 <b>Front-end</b> : React js - Redux / Next.js / Svelte / TypeScript / Vue.js /Angular /JQuery / Bootstrap / React Native / Flutter
 - 👨‍💻 <b>Back-end</b> : Node.js / Express / Django / Laravel / Ruby on Rails
 - 💬 <b>Database</b> : Mysql / MongoDB / PostgreSQL / MariaDB / SQlite
@@ -14,7 +11,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olaf0257" alt="webstardev" /></a> </p>
 
-<h3 align="left">Languages and Tools</h3>
+<br>
+
+## Languages and Tools</h3>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <code><img height="35" src="https://github.com/talentedexpert0057/talentedexpert0057/blob/master/assets/Next.js.png"></code>
@@ -56,7 +55,7 @@
 <code><img height="35" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/b2b.png"></code>
 <code><img height="35" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/b2c.png"></code>
 <br><br>
-<summary> 😇 <b>My Github Stats</b>: </summary>
+## My Github Stats
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=talentedexpert0057&show_icons=true&theme=tokyonight&line_height=27">

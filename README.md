@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sunny Kan</h1>
-<h3 align="center">Senior Full-stack Engineer</h3>
+<h1 align="center">👋 Welcome to my profile. 👋</h1>
+<h3 align="center">Senior Full-stack Developer</h3>
 
 <h3 align="left">GitHub Stats</h3>
 

@@ -1,13 +1,18 @@
 <h1 align="center">👋 Welcome to my profile. 👋</h1>
 <h3 align="center">With over 7 years of rich development experience on projects ranging from small size applications through complex enterprise solutions.</h3>
 
-<h3 align="left">GitHub Stats</h3>
+## Core skills
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webstardev" alt="webstardev" /></a> </p>
+- 🔭 I am ready to start your project anytime.
 
-<p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=olaf0257&column=7&theme=onedark"/>
-</p>
+- 🌱 <b>Front-end</b> : React js - Redux / Next.js / Svelte / TypeScript / Vue.js /Angular /JQuery / Bootstrap / React Native / Flutter
+- 👨‍💻 <b>Back-end</b> : Node.js / Express / Django / Laravel / Ruby on Rails
+- 💬 <b>Database</b> : Mysql / MongoDB / PostgreSQL / MariaDB / SQlite
+- 🐱‍🐉 <b>CMS</b> : Wordpress, Shopify, Magento, Prestashop.
+- 📫 <b>Programming-languages</b> : JavaScript / HTML / CSS / PHP / Python / Ruby / Go
+<br>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olaf0257" alt="webstardev" /></a> </p>
 
 <h3 align="left">Languages and Tools</h3>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>

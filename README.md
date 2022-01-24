@@ -10,7 +10,8 @@
 <br>
 <p align="center"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=olaf0257&column=6&theme=onedark&title=Commit,Star,Follower,Repository,PullRequest,Issue"/></a> </p>
 <br>
-## Languages and Tools</h3>
+## Languages and Tools
+<br>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <code><img height="35" src="https://github.com/talentedexpert0057/talentedexpert0057/blob/master/assets/Next.js.png"></code>
@@ -53,7 +54,8 @@
 <code><img height="35" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/b2c.png"></code>
 <br><br>
 ## My Github Stats
+<br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=olaf0257&show_icons=true&theme=tokyonight&line_height=25">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=talentedexpert0057&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=28">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=talentedexpert0057&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=29">
 </p>

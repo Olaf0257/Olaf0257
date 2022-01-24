@@ -1,7 +1,7 @@
 <h1 align="center">👋 Welcome to my profile. 👋</h1>
 <h3 align="center">With over 7 years of rich development experience on projects ranging from small size applications through complex enterprise solutions.</h3>
 
-<h3 align="left">Core skills</h3>
+## Core skills
 - 🌱 <b>Front-end</b> : React js - Redux / Next.js / Svelte / TypeScript / Vue.js /Angular /JQuery / Bootstrap / React Native / Flutter
 - 👨‍💻 <b>Back-end</b> : Node.js / Express / Django / Laravel / Ruby on Rails
 - 💬 <b>Database</b> : Mysql / MongoDB / PostgreSQL / MariaDB / SQlite

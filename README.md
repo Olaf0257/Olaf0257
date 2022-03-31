@@ -1,4 +1,4 @@
-<h1 align="center">This is my skype: https://join.skype.com/invite/CUelzZwfwKZM</h1>
+<h1 align="center">Welcome to my profile.</h1>
 <h3 align="center">With over 7 years of rich development experience on projects ranging from small size applications through complex enterprise solutions.</h3>
 
 ## Core skills

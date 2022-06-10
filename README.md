@@ -3,7 +3,7 @@
   <p>Attention to details, adherence to strict technical standards, thorough and detail-oriented project management from my side will guarantee you having the result that serves you best.<br>
 If you need to create a new web service without worrying about future scalability, time, costs, maintenance, DoS, performance, Feel free to reach me out.<br>
 I will do my best to create a “Best Quality” result for my customers.<br>
-Let's go with me towards SUCCESS!!!</p>
+  <span style='margin:auto'>Let's go with me towards SUCCESS!!!</span></p>
 
 ## Core skills
 - 🌱 <b>Front-end</b> : React.js / Redux / Next.js / Svelte / TypeScript / Vue.js / Angular / jQuery / Tailwind CSS / Bootstrap / Material UI  / SCSS,SASS / React Native / Flutter

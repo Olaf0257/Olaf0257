@@ -6,10 +6,10 @@ I will do my best to create a “Best Quality” result for my customers.<br>
 Let's go with me towards SUCCESS!!!</p>
 
 ## Core skills
-- 🌱 <b>Front-end</b> : React js - Redux / Next.js / Svelte / TypeScript / Vue.js /Angular /JQuery / Bootstrap / React Native / Flutter
-- 👨‍💻 <b>Back-end</b> : Node.js / Express / Django / Laravel / Ruby on Rails
-- 💬 <b>Database</b> : Mysql / MongoDB / PostgreSQL / MariaDB / SQlite
-- 🐱‍🐉 <b>CMS</b> : Wordpress, Shopify, Magento, Prestashop.
+- 🌱 <b>Front-end</b> : React.js / Redux / Next.js / Svelte / TypeScript / Vue.js / Angular / jQuery / Tailwind CSS / Bootstrap / Material UI  / SCSS,SASS / React Native / Flutter
+- 👨‍💻 <b>Back-end</b> : Node.js / Express / Django / Laravel / Ruby on Rails / ASP.NET / Spring
+- 💬 <b>Database</b> : Mysql / MongoDB / PostgreSQL / SQLite / Firebase
+- 🐱‍🐉 <b>CMS</b> : Wordpress, Shopify, Magento, Prestashop
 - 📫 <b>Programming-languages</b> : JavaScript / HTML / CSS / PHP / Python / Ruby / Go
 <br>
 <p align="center"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=olaf0257&column=6&theme=onedark&title=Commit,Star,Follower,Repository,PullRequest,Issue"/></a> </p>

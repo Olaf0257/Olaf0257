@@ -1,4 +1,4 @@
-<h1 align="center">👋 Welcome to my profile. 👋</h1>
+<h1 align="center">This is my skype. https://join.skype.com/invite/CUelzZwfwKZM</h1>
 <h3 align="center">With over 7 years of rich development experience on projects ranging from small size applications through complex enterprise solutions.</h3>
   <p>Attention to details, adherence to strict technical standards, thorough and detail-oriented project management from my side will guarantee you having the result that serves you best.<br>
 If you need to create a new web service without worrying about future scalability, time, costs, maintenance, performance, Feel free to reach me out.<br>

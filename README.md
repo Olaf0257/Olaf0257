@@ -6,7 +6,7 @@ I will do my best to create a “Best Quality” result for my customers.</p>
   <p align="center">Let's go with me towards SUCCESS!!!</p>
 
 ## Core skills
-- 🌱 <b>Front-end</b> : React.js / Redux / Next.js / Svelte / TypeScript / Vue.js / Angular / jQuery / Tailwind CSS / Bootstrap / Material UI  / SCSS,SASS / React Native / Flutter
+- <i><img src="https://img.icons8.com/external-flaticons-flat-flat-icons/344/external-backend-computer-programming-flaticons-flat-flat-icons.png 2x"><i> <b>Front-end</b> : React.js / Redux / Next.js / Svelte / TypeScript / Vue.js / Angular / jQuery / Tailwind CSS / Bootstrap / Material UI  / SCSS,SASS / React Native / Flutter
 - 👨‍💻 <b>Back-end</b> : Node.js / Express / Django / Laravel / Ruby on Rails / ASP.NET / Spring
 - 💬 <b>Database</b> : Mysql / MongoDB / PostgreSQL / SQLite / Firebase
 - 🐱‍🐉 <b>CMS</b> : Wordpress, Shopify, Magento, Prestashop

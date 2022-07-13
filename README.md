@@ -1,4 +1,4 @@
-<h1 align="center">👋 Welcome to my profile. 👋</h1>![image](https://user-images.githubusercontent.com/69995505/178803490-5b919606-b908-4001-be9d-3c9e5d43c4da.png)
+<h1 align="center">👋 Welcome to my profile. 👋</h1>
 <h3 align="center">With over 7 years of rich development experience on projects ranging from small size applications through complex enterprise solutions.</h3>
   <p>Attention to details, adherence to strict technical standards, thorough and detail-oriented project management from my side will guarantee you having the result that serves you best.<br>
 If you need to create a new web service without worrying about future scalability, time, costs, maintenance, performance, Feel free to reach me out.<br>

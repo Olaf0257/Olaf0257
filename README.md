@@ -11,6 +11,7 @@ I will do my best to create a “Best Quality” result for my customers.</p>
 - <b>Database</b> : MySQL / MongoDB / PostgreSQL / SQLite / Firebase
 - <b>CMS</b> : Wordpress, Shopify, Magento, Prestashop
 - <b>Programming-languages</b> : JavaScript / HTML / CSS / PHP / Python / Ruby / C# / Go
+- <b>Other</b> : Git / AWS / Docker / Kubernate / Jira / Azure
 <br>
 <p align="center"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=olaf0257&column=8&title=Commit,Star,Follower,Repository,PullRequest,Issue,MultiLanguage,Organizations"/></a> </p>
 <br>

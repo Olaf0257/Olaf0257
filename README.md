@@ -21,5 +21,4 @@ I will do my best to create a “Best Quality” result for my customers.</p>
 <h3 align="left">My Github Stats</h3>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=olaf0257&show_icons=true&theme=tokyonight&line_height=25">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=olaf0257&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=29">
 </p>

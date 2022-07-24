@@ -22,6 +22,6 @@ I will do my best to create a “Best Quality” result for my customers.</p>
 <div align="center">
   <a href="https://github.com/devstar57">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=devstar57&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devstar57&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devstar57&layout=compact&langs_count=8&theme=tokyonight" />
   </a>
 </div>

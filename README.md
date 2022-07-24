@@ -9,13 +9,13 @@ I will do my best to create a “Best Quality” result for my customers.</p>
         <img src="https://img.shields.io/badge/google-%2300acee.svg?&amp;style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="google">
     </a>
     <a href="https://join.skype.com/invite/yWAl9oCLGWtS" target="_blank">
-        <img src="https://img.shields.io/badge/skype-%232E87FB.svg?&amp;style=for-the-badge&amp;logo=skype&amp;logoColor=white" alt="skype">
+        <img src="https://img.shields.io/badge/skype-%232E87FB.svg?&amp;style=for-the-badge&amp;logo=skype&amp;logoColor=white" alt="skype" target="_blank">
     </a>
     <a href="https://t.me/devstar57" target="_blank">
-        <img src="https://img.shields.io/badge/telegram-%231E77B5.svg?&amp;style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="telegram">
+        <img src="https://img.shields.io/badge/telegram-%231E77B5.svg?&amp;style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="telegram" target="_blank">
     </a>
     <a href="https://chatwith.io/s/62b85b4e693ab" target="_blank">
-        <img src="https://img.shields.io/badge/whatsapp-%989E87FB.svg?&amp;style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" alt="whatsapp">
+        <img src="https://img.shields.io/badge/whatsapp-%989E87FB.svg?&amp;style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" alt="whatsapp" target="_blank">
     </a>
 </div>
 
